@@ -1,0 +1,6 @@
+{
+  "name": "FLOWSHIELD",
+  "description": "India-Wide Flood Prediction & Early Warning System integrating CHIRPS rainfall, SRTM elevation & slope, and Sentinel-1 SAR observations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
